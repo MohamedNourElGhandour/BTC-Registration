@@ -1,0 +1,494 @@
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\VS_Prgrame\Eng1\Eng1\bin\Debug\Eng1.exe
+E:\VS_Prgrame\Eng1\Eng1\bin\Debug\Eng1.pdb
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.exe
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.pdb
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmAttendance.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\VS_Prgrame\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.exe
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.pdb
+F:\m.nour\New Folder (2)\Eng1\Eng1\bin\Debug\Eng1.exe
+F:\m.nour\New Folder (2)\Eng1\Eng1\bin\Debug\Eng1.pdb
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmAttendance.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+F:\m.nour\New Folder (2)\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Eng1\Eng1\obj\Debug\Eng1.exe
+E:\Eng1\Eng1\obj\Debug\Eng1.pdb
+E:\Eng1\Eng1\bin\Debug\Eng1.exe
+E:\Eng1\Eng1\bin\Debug\Eng1.pdb
+E:\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Eng1\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmAddUser.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.exe
+F:\Eng1\Eng1\obj\Debug\Eng1.pdb
+F:\Eng1\Eng1\bin\Debug\Eng1.exe
+F:\Eng1\Eng1\bin\Debug\Eng1.pdb
+F:\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+F:\Eng1\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmAddUser.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmRepAll.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmReportName.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmVerification.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+F:\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+D:\Eng1\Eng1\obj\Debug\Eng1.exe
+D:\Eng1\Eng1\obj\Debug\Eng1.pdb
+D:\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+D:\Eng1\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmAddUser.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmRepAll.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmVerification.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+D:\Eng1\Eng1\bin\Debug\Eng1.exe
+D:\Eng1\Eng1\bin\Debug\Eng1.pdb
+D:\Eng1\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+D:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.exe
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.pdb
+E:\Nour\Eng1\Eng1\bin\Debug\Eng1.exe
+E:\Nour\Eng1\Eng1\bin\Debug\Eng1.pdb
+E:\Nour\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmAddUser.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.exe
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.pdb
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\bin\Debug\Eng1.exe
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\bin\Debug\Eng1.pdb
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmAddUser.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmRepAll.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmVerification.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Nour\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+E:\Eng1\Eng1\obj\Debug\Eng1.frmCount.resources
+E:\aladeen\Eng1\Eng1\obj\Debug\Eng1.exe
+E:\aladeen\Eng1\Eng1\obj\Debug\Eng1.pdb
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.exe
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.pdb
+E:\New Folder (6)\Eng1\Eng1\bin\Debug\Eng1.exe
+E:\New Folder (6)\Eng1\Eng1\bin\Debug\Eng1.pdb
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmAddUser.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmCount.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\New Folder (6)\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.exe
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.pdb
+E:\ICDL Material\Eng1\Eng1\bin\Debug\Eng1.exe
+E:\ICDL Material\Eng1\Eng1\bin\Debug\Eng1.pdb
+E:\ICDL Material\Eng1\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmAddUser.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmCount.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\ICDL Material\Eng1\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Eng1\Eng1\obj\Debug\Eng1.exe
+C:\Documents and Settings\Administrator\Desktop\Eng1\Eng1\obj\Debug\Eng1.pdb
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.exe
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.pdb
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\bin\Debug\Eng1.exe
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\bin\Debug\Eng1.pdb
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmAddStu.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmAddUser.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmAttend.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmCount.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmMarks.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmRepAll.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmStart.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmVerification.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+C:\Documents and Settings\لحظة للكمبيوتر\Desktop\Eng1+7\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Eng1+7\Eng1\obj\Debug\Eng1.exe
+E:\Eng1+7\Eng1\obj\Debug\Eng1.pdb
+E:\Eng1+8\Eng1\obj\Debug\Eng1.exe
+E:\Eng1+8\Eng1\obj\Debug\Eng1.pdb
+E:\Eng1+8\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmAddUser.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmCount.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\Eng1+8\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Eng1+8\Eng1\bin\Debug\Eng1.exe
+E:\Eng1+8\Eng1\bin\Debug\Eng1.pdb
+E:\Eng1+9\Eng1\obj\Debug\Eng1.exe
+E:\Eng1+9\Eng1\obj\Debug\Eng1.pdb
+E:\Eng1+9\Eng1\bin\Debug\Eng1.exe
+E:\Eng1+9\Eng1\bin\Debug\Eng1.pdb
+E:\Eng1+9\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmAddUser.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmCount.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\Eng1+9\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Eng1+10\Eng1\obj\Debug\Eng1.exe
+E:\Eng1+10\Eng1\obj\Debug\Eng1.pdb
+E:\Eng1+10\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmAddUser.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmCount.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmUpdateStudentEss.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\Eng1+10\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+E:\Eng1+10\Eng1\bin\Debug\Eng1.exe
+E:\Eng1+10\Eng1\bin\Debug\Eng1.pdb
+E:\Eng1+11\Eng1\obj\Debug\Eng1.exe
+E:\Eng1+11\Eng1\obj\Debug\Eng1.pdb
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.exe
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.pdb
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\bin\Debug\Eng1.exe
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\bin\Debug\Eng1.pdb
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmAddStu.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmAddUser.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmAttend.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmCount.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmMarks.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmRepAll.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmStart.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmVerification.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+C:\Documents and Settings\A\Desktop\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByID.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.exe
+D:\Eng1+11\Eng1\obj\Debug\Eng1.pdb
+D:\Eng1+11\Eng1\bin\Debug\Eng1.exe
+D:\Eng1+11\Eng1\bin\Debug\Eng1.pdb
+D:\Eng1+11\Eng1\obj\Debug\ResolveAssemblyReference.cache
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddStu.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddUser.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmAttend.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmCount.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmMarks.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmRepAll.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmStart.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByID.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmVerification.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmAttendByName.resources
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmProgramDetailsByName.resources
+D:\oooo\Eng1+11\Eng1\obj\Debug\Eng1.exe
+D:\oooo\Eng1+11\Eng1\obj\Debug\Eng1.pdb
+D:\Eng1+11\Eng1\obj\Debug\Eng1.frmEnterMarksByame.resources
+E:\Eng1+11\Eng1\bin\Debug\Eng1.exe
+E:\Eng1+11\Eng1\bin\Debug\Eng1.pdb
+E:\Eng1+11\Eng1\obj\Debug\ResolveAssemblyReference.cache
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddStu.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddUser.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmAttend.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmAttendByName.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmCount.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmEnterMarksByame.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmMarks.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmProgramDetailsByName.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmRepAll.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmStart.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByID.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmVerification.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+E:\Eng1+11\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
+C:\Eng1+11\Eng1\obj\Debug\Eng1.exe
+C:\Eng1+11\Eng1\obj\Debug\Eng1.pdb
+C:\Eng1+11\Eng1\bin\Debug\Eng1.exe
+C:\Eng1+11\Eng1\bin\Debug\Eng1.pdb
+C:\Eng1+11\Eng1\obj\Debug\ResolveAssemblyReference.cache
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddCourse.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddInstructor.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddStu.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmAddUser.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmAllEvaluationReport.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmAttend.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmAttendByName.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmCount.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmCreateGroup.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteCourse.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteInstructor.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmDeleteStu.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmEnterMarksByame.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmEvaluation.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmMarks.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmProgramDetailsByName.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmProjectDetails.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmRepAll.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmStart.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateGroup.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStu.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourse.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByCourseOnly.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmUpdateStudentByID.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmVerification.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmViewDegree.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.Properties.Resources.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.frmViewGroup.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.RpMarks.resources
+C:\Eng1+11\Eng1\obj\Debug\Eng1.csproj.GenerateResource.Cache
